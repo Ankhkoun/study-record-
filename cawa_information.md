@@ -8,3 +8,6 @@ cmd输入 ： robocopy "G:\我的云端硬盘\CAWa_LrgTiles_2018_Fixed""E:\zhong
 
 数据集2.6w张，数据分布如下
 ![](image/cawa数据集分布.png)
+
+crop_map：
+![](image/crop_map.png)
